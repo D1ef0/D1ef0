@@ -19,13 +19,13 @@ Desarrollador Full Stack especializado en aplicaciones web y móviles, trabajand
 
 ## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDiego350z1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D1ef0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDiego350z1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ef0&layout=compact&theme=radical)
 
 ## Conecta conmigo
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDiego350z1) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1ef0)
 
 ---
 
