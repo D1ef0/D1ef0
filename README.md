@@ -27,6 +27,7 @@ Full Stack Developer specialized in web and mobile applications, working with mo
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1ef0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-garcia-rivas/)
 
 ---
 
